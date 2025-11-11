@@ -1,0 +1,28 @@
+# Исполняемые файлы
+hash_cracker
+hash_cracker.exe
+*.exe
+*.out
+
+# Словари (большие файлы)
+*.txt
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS файлы
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Go
+go.sum
+
+# Логи и временные файлы
+*.log
+tmp/
+temp/
