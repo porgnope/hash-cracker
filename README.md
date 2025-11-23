@@ -16,7 +16,7 @@
 
 ## 🛠️ Установка
 
-- **git clone https://github.com/redusers/hash-cracker.git**
+- **git clone [https://github.com/redusers/hash-cracker.git](https://github.com/porgnope/hash-cracker)**
 - **cd hash-cracker**
 -  **go build -o hash_cracker**
 
