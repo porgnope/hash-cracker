@@ -9,3 +9,7 @@ Only for legal use: recovering your own passwords, security testing with permiss
 Hash Cracker v1.0 — высокопроизводительный инструмент для восстановления паролей из криптографических хешей на Go с поддержкой параллельной обработки.  
 Словарные атаки (2M+ паролей), автоматические мутации (до 35 на пароль), 4 алгоритма (MD5, SHA-1, SHA-256, SHA-512), скорость до 5.6M паролей/сек (SHA-512). Только для легального использования: восстановление своих паролей, тестирование безопасности с разрешения, обучение.  
 [Полное описание на русском](https://github.com/porgnope/hash-cracker/blob/main/README.ru.md)
+
+
+
+<img width="1242" height="903" alt="img" src="https://github.com/user-attachments/assets/41a17cb6-df15-4b14-ab31-12828c517a3b" />
