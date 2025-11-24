@@ -50,3 +50,5 @@ Why Go instead of Python?
 MIT License—free use with attribution required.
 
 Engineered to demonstrate Go’s parallel processing and cryptographic capabilities.
+
+<img width="1242" height="903" alt="img" src="https://github.com/user-attachments/assets/5c16e0ee-042f-4672-afac-35a33bf8a0af" />
